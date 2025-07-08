@@ -2,6 +2,8 @@
 
  Dive into the data job market! Focusing on data analyst roles, this project explores  top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 
+[Dataset Used](https://drive.google.com/drive/folders/1XxZPBULxMrNInxK-3VpbczKbHPZIPRkQ?usp=sharing)
+
 # Background
 
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
